@@ -1,0 +1,11 @@
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\json技能信息.txt
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\031_json操作.exe.config
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\031_json操作.exe
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\031_json操作.pdb
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\LitJSON.dll
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\obj\Debug\031_json操作.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\obj\Debug\031_json操作.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\obj\Debug\031_json操作.csproj.CopyComplete
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\obj\Debug\031_json操作.exe
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\obj\Debug\031_json操作.pdb
+D:\C#-Test\学习csharp编程 高级篇\031_json操作\bin\Debug\主角信息.txt

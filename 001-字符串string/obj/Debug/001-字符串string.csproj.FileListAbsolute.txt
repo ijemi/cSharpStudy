@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.exe.config
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.exe
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.pdb
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.exe
+D:\C#-Test\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.pdb

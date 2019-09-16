@@ -1,0 +1,8 @@
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\bin\Debug\030_xml操作.exe.config
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\bin\Debug\030_xml操作.exe
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\bin\Debug\030_xml操作.pdb
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\obj\Debug\030_xml操作.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\obj\Debug\030_xml操作.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\obj\Debug\030_xml操作.exe
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\obj\Debug\030_xml操作.pdb
+D:\C#-Test\学习csharp编程 高级篇\030_xml操作\bin\Debug\skillinfo.txt

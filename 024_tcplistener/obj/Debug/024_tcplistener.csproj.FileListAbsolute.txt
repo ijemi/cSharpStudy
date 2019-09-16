@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\bin\Debug\024_tcplistener.exe.config
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\bin\Debug\024_tcplistener.exe
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\bin\Debug\024_tcplistener.pdb
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\obj\Debug\024_tcplistener.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\obj\Debug\024_tcplistener.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\obj\Debug\024_tcplistener.exe
+D:\C#-Test\学习csharp编程 高级篇\024_tcplistener\obj\Debug\024_tcplistener.pdb

@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\015_特性\bin\Debug\015_特性.exe.config
+D:\C#-Test\学习csharp编程 高级篇\015_特性\bin\Debug\015_特性.exe
+D:\C#-Test\学习csharp编程 高级篇\015_特性\bin\Debug\015_特性.pdb
+D:\C#-Test\学习csharp编程 高级篇\015_特性\obj\Debug\015_特性.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\015_特性\obj\Debug\015_特性.exe
+D:\C#-Test\学习csharp编程 高级篇\015_特性\obj\Debug\015_特性.pdb
+D:\C#-Test\学习csharp编程 高级篇\015_特性\obj\Debug\015_特性.csprojAssemblyReference.cache

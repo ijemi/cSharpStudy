@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\bin\Debug\020_线程问题_争用条件.exe.config
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\bin\Debug\020_线程问题_争用条件.exe
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\bin\Debug\020_线程问题_争用条件.pdb
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\obj\Debug\020_线程问题_争用条件.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\obj\Debug\020_线程问题_争用条件.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\obj\Debug\020_线程问题_争用条件.exe
+D:\C#-Test\学习csharp编程 高级篇\020_线程问题_争用条件\obj\Debug\020_线程问题_争用条件.pdb

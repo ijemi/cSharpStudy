@@ -1,0 +1,8 @@
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\bin\Debug\029_使用StreamReader和StreamWrite读写文本文件.exe.config
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\bin\Debug\029_使用StreamReader和StreamWrite读写文本文件.exe
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\bin\Debug\029_使用StreamReader和StreamWrite读写文本文件.pdb
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\obj\Debug\029_使用StreamReader和StreamWrite读写文本文件.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\obj\Debug\029_使用StreamReader和StreamWrite读写文本文件.exe
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\obj\Debug\029_使用StreamReader和StreamWrite读写文本文件.pdb
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\bin\Debug\TextFile1.txt
+D:\C#-Test\学习csharp编程 高级篇\029_使用StreamReader和StreamWrite读写文本文件\obj\Debug\029_使用StreamReader和StreamWrite读写文本文件.csprojAssemblyReference.cache

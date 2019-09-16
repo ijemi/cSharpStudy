@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\bin\Debug\013_LINQ.exe.config
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\bin\Debug\013_LINQ.exe
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\bin\Debug\013_LINQ.pdb
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\obj\Debug\013_LINQ.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\obj\Debug\013_LINQ.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\obj\Debug\013_LINQ.exe
+D:\C#-Test\学习csharp编程 高级篇\013_LINQ\obj\Debug\013_LINQ.pdb

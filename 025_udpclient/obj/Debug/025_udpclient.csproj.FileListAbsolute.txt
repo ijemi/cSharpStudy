@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\bin\Debug\025_udpclient.exe.config
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\bin\Debug\025_udpclient.exe
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\bin\Debug\025_udpclient.pdb
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\obj\Debug\025_udpclient.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\obj\Debug\025_udpclient.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\obj\Debug\025_udpclient.exe
+D:\C#-Test\学习csharp编程 高级篇\025_udpclient\obj\Debug\025_udpclient.pdb

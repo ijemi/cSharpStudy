@@ -1,0 +1,7 @@
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\bin\Debug\021_Socket编程_TCP协议.exe.config
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\bin\Debug\021_Socket编程_TCP协议.exe
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\bin\Debug\021_Socket编程_TCP协议.pdb
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\obj\Debug\021_Socket编程_TCP协议_服务器端.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\obj\Debug\021_Socket编程_TCP协议_服务器端.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\obj\Debug\021_Socket编程_TCP协议.exe
+D:\C#-Test\学习csharp编程 高级篇\021_Socket编程_TCP协议\obj\Debug\021_Socket编程_TCP协议.pdb

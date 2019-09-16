@@ -1,0 +1,8 @@
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\bin\Debug\028_使用FileStream读写文件.exe.config
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\bin\Debug\028_使用FileStream读写文件.exe
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\bin\Debug\028_使用FileStream读写文件.pdb
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\obj\Debug\028_使用FileStream读写文件.csprojAssemblyReference.cache
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\obj\Debug\028_使用FileStream读写文件.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\obj\Debug\028_使用FileStream读写文件.exe
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\obj\Debug\028_使用FileStream读写文件.pdb
+D:\C#-Test\学习csharp编程 高级篇\028_使用FileStream读写文件\bin\Debug\SBJCtop1.png

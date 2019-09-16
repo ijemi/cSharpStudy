@@ -1,0 +1,9 @@
+D:\C#-Test\学习csharp编程 高级篇\Shadow\bin\Debug\Shadow.exe.config
+D:\C#-Test\学习csharp编程 高级篇\Shadow\bin\Debug\Shadow.exe
+D:\C#-Test\学习csharp编程 高级篇\Shadow\bin\Debug\Shadow.pdb
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.Shadow.resources
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.Properties.Resources.resources
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.csproj.GenerateResource.cache
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.csproj.CoreCompileInputs.cache
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.exe
+D:\C#-Test\学习csharp编程 高级篇\Shadow\obj\Debug\Shadow.pdb
